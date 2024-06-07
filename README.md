@@ -1,3 +1,4 @@
+![logo](https://github.com/vikasjangidmk/vikasjangidmk/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Vikas Jangid</h1>
 <h3 align="center">A passionate data scientist from India</h3>
 
