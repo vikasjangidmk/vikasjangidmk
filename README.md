@@ -1,6 +1,7 @@
 ![logo](https://github.com/vikasjangidmk/vikasjangidmk/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Vikas Jangid</h1>
-<h3 align="center">A passionate data scientist from India</h3>
+<h3 align="center">🚀 Passionate Data Science student at Chandigarh University. Exploring Machine Learning, Deep Learning, and Data Analytics. Let's innovate together! 🌟
+</h3>
 
 <img align="right" alt="coding" width="400" src="https://github.com/vikasjangidmk/vikasjangidmk/assets/130329907/e5526690-2466-48fa-a42a-1871e4feda87" />
 
