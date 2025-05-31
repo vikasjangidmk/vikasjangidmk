@@ -32,7 +32,7 @@
 ### 🎓 Education
 
 - 🎓 **M.Sc. Data Science** — *Chandigarh University* (2023–2025)  
-- 🎓 **B.Sc. (Maths, Stats, CS)** — *L.B.S College, Jaipur* (2018–2022)  
+- 🎓 **B.Sc. (Maths, Stats, CS)** — *L.B.S College, Jaipur* (2018–2021)  
 
 ---
 
