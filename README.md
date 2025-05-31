@@ -16,12 +16,12 @@
 
 ### 🔬 About Me
 
-- 🎓 I’m currently pursuing my **<span style="color:#ffa500;"><b>M.Sc. in Data Science</b></span>** from **Chandigarh University**.  
-- 🤖 My interests include **<span style="color:#00bfff;"><b>Machine Learning</b></span>**, **<span style="color:#00bfff;"><b>Deep Learning</b></span>**, **<span style="color:#00bfff;"><b>Generative AI</b></span>**, and **<span style="color:#00bfff;"><b>Agentic AI</b></span>**.  
-- 🧠 I'm passionate about solving **real-world problems** using intelligent systems.  
-- 🛠️ I love building projects with **<b>FAISS</b>**, **<b>LangChain</b>**, **<b>Streamlit</b>**, and **<b>NVIDIA NeMo</b>**.  
-- 📝 Recently published **<b>2 research papers</b>** at **SocProS 2025, IIT Roorkee**.  
-- 🌱 I thrive in fast-paced, research-oriented environments and enjoy constant learning.
+- 🎓 Pursuing **M.Sc. in Data Science** @ **Chandigarh University**
+- 🤖 Passionate about **Machine Learning**, **Deep Learning**, **Generative AI**, and **Agentic AI**
+- 🧠 Solving real-world problems with scalable **AI solutions**
+- 🛠️ Building apps with **FAISS**, **LangChain**, **Streamlit**, and **NVIDIA NeMo**
+- 📝 Published **2 research papers** @ **SocProS 2025 (IIT Roorkee)**
+- 🌱 Lifelong learner and innovator in AI & research
 
    </td>
     
@@ -37,19 +37,21 @@
 
 ---
 
-### 🏆 Key Publications
+### 🏆 Publications
 
-📘 **SocProS 2025 @ IIT Roorkee**  
-&nbsp;&nbsp;&nbsp;&nbsp;🔹 <strong>Reducing Operational Costs</strong>  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>Cost-Sensitive XGBoost-Based Failure Prediction</em>
+📘 **SocProS 2025 – IIT Roorkee**  
+🔹 *Reducing Operational Costs*  
+  <i>Cost-Sensitive XGBoost-Based Failure Prediction</i>
 
-📗 **SocProS 2025 @ IIT Roorkee**  
-&nbsp;&nbsp;&nbsp;&nbsp;🔹 <strong>AI-Driven Pneumonia Diagnosis</strong>  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>Custom CNNs for Medical Imaging</em>
+📗 **SocProS 2025 – IIT Roorkee**  
+🔹 *AI-Driven Pneumonia Diagnosis*  
+  <i>Custom CNNs for Medical Imaging</i>
 
-<img src="https://img.shields.io/badge/Published--Paper-blue?style=for-the-badge&logo=googlescholar" alt="Published Paper Badge"/>  
-<img src="https://img.shields.io/badge/IIT--Roorkee--Conf.-green?style=flat-square&logo=academia" />
-<img src="https://img.shields.io/badge/SocProS--2025--Accepted-orange?style=flat-square&logo=semanticweb" />
+<p>
+  <img src="https://img.shields.io/badge/Published%20Paper-blue?style=flat&logo=readthedocs&logoColor=white" />
+  <img src="https://img.shields.io/badge/SocProS--2025--Accepted-darkgreen?style=flat-square&logo=semanticweb" />
+  <img src="https://img.shields.io/badge/IIT--Roorkee--Conf.-8a2be2?style=flat-square&logo=academia" />
+</p>
 
    </td>
   </tr>
@@ -79,5 +81,5 @@
 
 <!-- Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vikasjangidmk&label=Profile%20views&color=blue&style=flat" alt="vikasjangidmk" />
+  <img src="https://komarev.com/ghpvc/?username=vikasjangidmk&label=Profile%20views&color=8a2be2&style=flat-square" alt="vikasjangidmk" />
 </p>
