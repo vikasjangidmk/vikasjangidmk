@@ -3,63 +3,38 @@
   <img src="https://github.com/vikasjangidmk/vikasjangidmk/blob/main/banner.png" alt="Vikas Jangid Banner"/>
 </p>
 
-<!-- Name and Role -->
-<h1 align="center">Hey there 👋, I'm <span style="color:#00ADB5;">Vikas Jangid</span></h1>
+<!-- Heading -->
+<h1 align="center">Hi 👋, I'm <span style="color:#00ADB5;">Vikas Jangid</span></h1>
 <h3 align="center">🚀 Aspiring Data Scientist | AI Researcher | M.Sc. Data Science @ Chandigarh University</h3>
 
-<!-- Right-aligned image -->
-<p align="center">
-  <img src="https://github.com/vikasjangidmk/vikasjangidmk/assets/130329907/e5526690-2466-48fa-a42a-1871e4feda87" alt="coding" width="350"/>
-</p>
+<!-- Grid Layout Start -->
+<table align="center">
+  <tr>
+    <!-- About Me -->
+    <td width="50%">
+      <h3>🔬 About Me</h3>
+      <ul>
+        <li>🎓 Pursuing <b>M.Sc. Data Science</b> @ Chandigarh University</li>
+        <li>🤖 Exploring <b>ML, DL, Generative AI, Agentic AI</b></li>
+        <li>📝 Published <b>2 Research Papers</b> at SocProS 2025 (IIT Roorkee)</li>
+        <li>💡 Building apps with <b>LLMs, FAISS, LangChain</b></li>
+        <li>🌱 Constant learner solving real-world problems with AI</li>
+      </ul>
+    </td>
 
-<!-- Profile views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vikasjangidmk&label=Profile%20views&color=00ADB5&style=flat" alt="vikasjangidmk" />
-</p>
+    <!-- Education -->
+    <td width="50%">
+      <h3>🎓 Education</h3>
+      <ul>
+        <li><b>M.Sc. Data Science</b><br>Chandigarh University (2023–2025)</li>
+        <li><b>B.Sc. (Maths, Stats, CS)</b><br>L.B.S College, Jaipur (2018–2021)</li>
+      </ul>
+      <h3>📄 Publications</h3>
+      <ul>
+        <li><b>XGBoost-Based Failure Prediction</b> – SocProS 2025</li>
+        <li><b>Pneumonia Diagnosis with CNNs</b> – SocProS 2025</li>
+      </ul>
+    </td>
+  </tr>
 
----
-
-### 🔬 About Me
-
-- 🎓 M.Sc. in **Data Science** @ Chandigarh University  
-- 🤖 Exploring **ML, DL, Generative AI, Agentic AI**
-- 🧠 Published **2 Research Papers** @ SocProS 2025, IIT Roorkee  
-- 💡 Building real-world AI apps using **LLMs, FAISS, LangChain**
-- 🌱 Lifelong learner, always exploring new AI innovations
-
----
-
-### 🎓 Education
-
-- 🎓 **M.Sc. Data Science** — *Chandigarh University* (2023–2025)  
-- 🎓 **B.Sc. (Maths, Stats, CS)** — *L.B.S College, Jaipur* (2018–2021)  
-
----
-
-### 📝 Publications
-
-- 📘 *Reducing Operational Costs with Cost-Sensitive XGBoost* – SocProS 2025 (IIT Roorkee)  
-- 📘 *AI-Driven Pneumonia Diagnosis Using Custom CNNs* – SocProS 2025 (IIT Roorkee)
-
----
-
-### 📬 Connect with Me
-
-<p align="center">
-  <a href="mailto:vikasjangidmk@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/vikas-jangid-ab0b0b1b9" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/vikasjangidmk" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vikasjangidmk&show_icons=true&theme=react&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikasjangidmk&layout=compact&theme=react&hide_border=true" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikasjangidmk&theme=react&hide_border=true" width="70%" />
-</div>
+  <tr>
