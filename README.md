@@ -21,44 +21,6 @@
 
 ---
 
-📌 **Featured Projects**
-
-- 🧠 **Smart OCR & Audio Processing App**  
-  `Tesseract OCR`, `Whisper`, `OpenAI`, `Streamlit`  
-  > Real-time text extraction and audio transcription with 93% OCR accuracy.
-
-- 🤝 **AI Job Search & Resume Matcher**  
-  `FAISS`, `ChromaDB`, `Llama 3.3`, `Gradio`  
-  > AI tool for job search automation and smart resume-job matching (32% improvement).
-
-- 🧾 **Autonomous AI Research Writer**  
-  `CrewAI`, `GPT-4`, `Serper API`, `Streamlit`  
-  > Multi-agent orchestration for content generation and research automation.
-
----
-
-🛠 **Tech Stack & Tools**
-
-**Languages:**  
-`Python`, `SQL`
-
-**AI/ML:**  
-`Machine Learning`, `Deep Learning`, `Generative AI`, `Agentic AI`
-
-**Frameworks/Libraries:**  
-`PyTorch`, `TensorFlow`, `Scikit-learn`, `Hugging Face`, `LangChain`, `LlamaIndex`, `OpenAI`
-
-**Data Tools:**  
-`Pandas`, `NumPy`, `Matplotlib`, `MongoDB`, `MySQL`
-
-**MLOps & Deployment:**  
-`Docker`, `FastAPI`, `Streamlit`, `Flask`, `Git`, `CI/CD`, `Kubernetes`, `DVC`
-
-**Cloud & Vector DBs:**  
-`AWS`, `GCP`, `Azure`, `Google Vertex AI`, `Bedrock`, `FAISS`, `ChromaDB`, `Pinecone`
-
----
-
 🎓 **Education**
 
 - 📍 M.Sc. Data Science — Chandigarh University (2023–2025)  
