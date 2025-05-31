@@ -16,11 +16,12 @@
 
 ### 🔬 About Me
 
-- 🎓 Pursuing **M.Sc. in Data Science** at Chandigarh University  
-- 🤖 Exploring **ML, DL, GenAI, Agentic AI**  
-- 📝 Published **2 Papers** at SocProS 2025 (IIT Roorkee)  
-- 💡 Building LLM apps using FAISS, LangChain, Streamlit  
-- 🌱 Lifelong learner focused on real-world AI solutions  
+- 🎓 I’m currently pursuing my **<span style="color:#ffa500;"><b>M.Sc. in Data Science</b></span>** from **Chandigarh University**.  
+- 🤖 My interests include **<span style="color:#00bfff;"><b>Machine Learning</b></span>**, **<span style="color:#00bfff;"><b>Deep Learning</b></span>**, **<span style="color:#00bfff;"><b>Generative AI</b></span>**, and **<span style="color:#00bfff;"><b>Agentic AI</b></span>**.  
+- 🧠 I'm passionate about solving **real-world problems** using intelligent systems.  
+- 🛠️ I love building projects with **<b>FAISS</b>**, **<b>LangChain</b>**, **<b>Streamlit</b>**, and **<b>NVIDIA NeMo</b>**.  
+- 📝 Recently published **<b>2 research papers</b>** at **SocProS 2025, IIT Roorkee**.  
+- 🌱 I thrive in fast-paced, research-oriented environments and enjoy constant learning.
 
    </td>
     
