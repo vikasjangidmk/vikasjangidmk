@@ -6,14 +6,14 @@
 <h1 align="center">Hi 👋, I'm Vikas Jangid</h1>
 <h3 align="center">🚀 Aspiring Data Scientist | AI Researcher | M.Sc. Data Science @ Chandigarh University</h3>
 
-<!-- Coding gif -->
+<!-- Coding GIF -->
 <img align="right" alt="coding" width="300" src="https://github.com/vikasjangidmk/vikasjangidmk/assets/130329907/e5526690-2466-48fa-a42a-1871e4feda87" />
 
-<!-- Grid Layout -->
+<!-- Grid Layout Start -->
 <table>
   <tr>
     <td>
-      
+
 ### 🔬 About Me
 
 - 🎓 Pursuing **M.Sc. in Data Science** at Chandigarh University  
@@ -34,14 +34,27 @@
 - 📍 **B.Sc. (Maths, Stats, CS)**  
   L.B.S College, Jaipur (2018–2022)
 
-### 📄 Publications
+---
 
-- 🔹 *Failure Prediction with XGBoost* – SocProS 2025  
-- 🔹 *AI-Based Pneumonia Detection* – SocProS 2025  
+### 🏆 Key Publications
+
+📘 **SocProS 2025 @ IIT Roorkee**  
+&nbsp;&nbsp;&nbsp;&nbsp;🔹 <strong>Reducing Operational Costs</strong>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>Cost-Sensitive XGBoost-Based Failure Prediction</em>
+
+📗 **SocProS 2025 @ IIT Roorkee**  
+&nbsp;&nbsp;&nbsp;&nbsp;🔹 <strong>AI-Driven Pneumonia Diagnosis</strong>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>Custom CNNs for Medical Imaging</em>
+
+<img src="https://img.shields.io/badge/Published--Paper-blue?style=for-the-badge&logo=googlescholar" alt="Published Paper Badge"/>  
+<img src="https://img.shields.io/badge/IIT--Roorkee--Conf.-green?style=flat-square&logo=academia" />
+<img src="https://img.shields.io/badge/SocProS--2025--Accepted-orange?style=flat-square&logo=semanticweb" />
 
    </td>
   </tr>
 </table>
+
+---
 
 <!-- Contact -->
 <p align="center">
