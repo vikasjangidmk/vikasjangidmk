@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=8A2BE2&background=F5F5F5&center=true&vCenter=true&width=600&lines=Aspiring+Data+Scientist;AI+Researcher;M.Sc.+Data+Science+@+Chandigarh+University" alt="Typing SVG" />
 </p>
 
-<!-- Enlarged Snake Contributions Graph -->
+<!-- Enlarged Snake Contributions Graph without heading -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/HEAD/snk.svg" alt="Snake Contributions Graph" style="width: 700px; height: auto;" />
 </p>
