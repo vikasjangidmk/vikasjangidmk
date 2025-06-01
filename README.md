@@ -8,18 +8,20 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=8A2BE2&background=F5F5F5&center=true&vCenter=true&width=600&lines=Aspiring+Data+Scientist;AI+Researcher;M.Sc.+Data+Science+@+Chandigarh+University" alt="Typing SVG" />
 </p>
 
-<!-- Enlarged Snake Contributions Graph without heading -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/HEAD/snk.svg" alt="Snake Contributions Graph" style="width: 700px; height: auto;" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Vikas Jangid</h1>
 <h3 align="center">🚀 Aspiring Data Scientist | AI Researcher | M.Sc. Data Science @ Chandigarh University</h3>
 
 <!-- Coding GIF -->
 <img align="right" alt="coding" width="300" src="https://github.com/vikasjangidmk/vikasjangidmk/assets/130329907/e5526690-2466-48fa-a42a-1871e4feda87" />
 
-<!-- About Me and Education Grid -->
+<!-- Badges: Repo, Commits, Followers in small green boxes -->
+<p align="center">
+  <img src="https://img.shields.io/github/repo-size/vikasjangidmk/vikasjangidmk?style=flat-square&color=4caf50&logo=github" alt="Repo Size" />
+  <img src="https://img.shields.io/github/commit-activity/y/vikasjangidmk/vikasjangidmk?style=flat-square&color=4caf50&logo=github" alt="Commit Activity" />
+  <img src="https://img.shields.io/github/followers/vikasjangidmk?style=flat-square&color=4caf50&logo=github" alt="Followers" />
+</p>
+
+<!-- Grid Layout Start -->
 <table>
   <tr>
     <td>
@@ -92,12 +94,4 @@
 <!-- Profile Views -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vikasjangidmk&label=Profile%20views&color=8a2be2&style=flat-square" alt="vikasjangidmk" />
-</p>
-
-<!-- Repo, Commits, Followers Big Badges -->
-<p align="center">
-  <img src="https://img.shields.io/github/repo-size/vikasjangidmk/vikasjangidmk?style=for-the-badge&color=8A2BE2&logo=github" alt="Repo Size" />
-  <img src="https://img.shields.io/github/commit-activity/y/vikasjangidmk/vikasjangidmk?style=for-the-badge&color=8A2BE2&logo=github" alt="Commit Activity" />
-  <img src="https://img.shields.io/github/followers/vikasjangidmk?style=for-the-badge&color=8A2BE2&logo=github" alt="Followers" />
-  <img src="https://github-profile-trophy.vercel.app/?username=vikasjangidmk&theme=tokyonight" alt="Trophy" />
 </p>
