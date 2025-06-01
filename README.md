@@ -79,11 +79,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikasjangidmk&theme=tokyonight" width="95%"/>
 </p>
 
-<!-- GitHub Profile Stats: Followers, Repos, Commits -->
+<!-- GitHub Badges -->
 <p align="center">
   <img src="https://img.shields.io/github/followers/vikasjangidmk?label=Followers&style=flat-square&color=blueviolet" />
-  <img src="https://img.shields.io/github/repo-count/vikasjangidmk?label=Public%20Repos&style=flat-square&color=blue" />
-  <img src="https://img.shields.io/github/commit-activity/m/vikasjangidmk/vikasjangidmk?label=Commits&style=flat-square&color=green" />
+  <img src="https://img.shields.io/badge/Public%20Repos-🗂️%2030-blue?style=flat-square" />
+  <img src="https://img.shields.io/github/contributions/2024/vikasjangidmk?label=2024%20Commits&style=flat-square&color=green" />
 </p>
 
 <!-- Views -->
