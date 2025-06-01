@@ -9,12 +9,6 @@
 <!-- Coding GIF -->
 <img align="right" alt="coding" width="300" src="https://github.com/vikasjangidmk/vikasjangidmk/assets/130329907/e5526690-2466-48fa-a42a-1871e4feda87" />
 
-<!-- Contribution Graph -->
-<h3 align="center">📈 GitHub Contribution Graph</h3>
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=vikasjangidmk&theme=react-dark&hide_border=true&area=true" width="800" height="200" alt="Vikas's GitHub Activity Graph" />
-</p>
-
 <!-- Grid Layout Start -->
 <table>
   <tr>
@@ -88,4 +82,12 @@
 <!-- Views -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vikasjangidmk&label=Profile%20views&color=8a2be2&style=flat-square" alt="vikasjangidmk" />
+</p>
+
+---
+
+<!-- Contribution Graph -->
+<h3 align="center">📈 GitHub Contribution Graph</h3>
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=vikasjangidmk&theme=react-dark&hide_border=true&area=true" width="800" height="200" alt="Vikas's GitHub Activity Graph" />
 </p>
