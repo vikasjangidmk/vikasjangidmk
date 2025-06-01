@@ -1,11 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/vikasjangidmk/vikasjangidmk/blob/main/banner.png" alt="Vikas Jangid Banner" />
-</p>
-
-<!-- Animated Typing Effect -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=8A2BE2&background=F5F5F5&center=true&vCenter=true&width=600&lines=Aspiring+Data+Scientist;AI+Researcher;M.Sc.+Data+Science+@+Chandigarh+University" alt="Typing SVG" />
+  <img src="https://github.com/vikasjangidmk/vikasjangidmk/blob/main/banner.png" alt="Vikas Jangid Banner"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Vikas Jangid</h1>
@@ -14,11 +9,10 @@
 <!-- Coding GIF -->
 <img align="right" alt="coding" width="300" src="https://github.com/vikasjangidmk/vikasjangidmk/assets/130329907/e5526690-2466-48fa-a42a-1871e4feda87" />
 
-<!-- Badges: Repo, Commits, Followers in small green boxes -->
+<!-- Contribution Graph -->
+<h3 align="center">📈 GitHub Contribution Graph</h3>
 <p align="center">
-  <img src="https://img.shields.io/github/repo-size/vikasjangidmk/vikasjangidmk?style=flat-square&color=4caf50&logo=github" alt="Repo Size" />
-  <img src="https://img.shields.io/github/commit-activity/y/vikasjangidmk/vikasjangidmk?style=flat-square&color=4caf50&logo=github" alt="Commit Activity" />
-  <img src="https://img.shields.io/github/followers/vikasjangidmk?style=flat-square&color=4caf50&logo=github" alt="Followers" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=vikasjangidmk&theme=react-dark&hide_border=true&area=true" width="800" height="200" alt="Vikas's GitHub Activity Graph" />
 </p>
 
 <!-- Grid Layout Start -->
@@ -28,12 +22,12 @@
 
 ### 🔬 About Me
 
-- 🎓 Pursuing **M.Sc. in Data Science** @ **Chandigarh University**  
-- 🤖 Passionate about **Machine Learning**, **Deep Learning**, **Generative AI**, and **Agentic AI**  
-- 🧠 Solving real-world problems with scalable **AI solutions**  
-- 🛠️ Building apps with **FAISS**, **LangChain**, **Streamlit**, and **NVIDIA NeMo**  
-- 📝 Published **2 research papers** @ **SocProS 2025 (IIT Roorkee)**  
-- 🌱 Lifelong learner and innovator in AI & research  
+- 🎓 Pursuing **M.Sc. in Data Science** @ **Chandigarh University**
+- 🤖 Passionate about **Machine Learning**, **Deep Learning**, **Generative AI**, and **Agentic AI**
+- 🧠 Solving real-world problems with scalable **AI solutions**
+- 🛠️ Building apps with **FAISS**, **LangChain**, **Streamlit**, and **NVIDIA NeMo**
+- 📝 Published **2 research papers** @ **SocProS 2025 (IIT Roorkee)**
+- 🌱 Lifelong learner and innovator in AI & research
 
    </td>
     
@@ -85,13 +79,13 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vikasjangidmk&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikasjangidmk&layout=compact&theme=tokyonight" width="48%" />
-  <br /><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikasjangidmk&theme=tokyonight" width="95%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vikasjangidmk&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikasjangidmk&layout=compact&theme=tokyonight" width="48%"/>
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikasjangidmk&theme=tokyonight" width="95%"/>
 </p>
 
-<!-- Profile Views -->
+<!-- Views -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vikasjangidmk&label=Profile%20views&color=8a2be2&style=flat-square" alt="vikasjangidmk" />
 </p>
