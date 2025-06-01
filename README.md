@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/vikasjangidmk/vikasjangidmk/blob/main/banner.png" alt="Vikas Jangid Banner"/>
+  <img src="https://github.com/vikasjangidmk/vikasjangidmk/blob/main/banner.png" alt="Vikas Jangid Banner" />
 </p>
 
 <!-- Animated Typing Effect -->
@@ -10,11 +10,11 @@
 
 <!-- Snake Contributions Graph -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/HEAD/snk.svg" alt="snake contributions graph" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/HEAD/snk.svg" alt="Snake Contributions Graph" />
 </p>
 
-<!-- Aesthetic Section -->
-<div align="center" style="background-color:#f5f5f5; border-radius:15px; padding:20px; margin:20px 0; max-width: 700px;">
+<!-- Aesthetic Highlights Section -->
+<div align="center" style="background-color:#f5f5f5; border-radius:15px; padding:20px; margin:20px auto; max-width:700px;">
 
 <h2 style="color:#8a2be2;">🌟 Projects & Highlights</h2>
 
@@ -40,12 +40,12 @@
 
 ### 🔬 About Me
 
-- 🎓 Pursuing **M.Sc. in Data Science** @ **Chandigarh University**
-- 🤖 Passionate about **Machine Learning**, **Deep Learning**, **Generative AI**, and **Agentic AI**
-- 🧠 Solving real-world problems with scalable **AI solutions**
-- 🛠️ Building apps with **FAISS**, **LangChain**, **Streamlit**, and **NVIDIA NeMo**
-- 📝 Published **2 research papers** @ **SocProS 2025 (IIT Roorkee)**
-- 🌱 Lifelong learner and innovator in AI & research
+- 🎓 Pursuing **M.Sc. in Data Science** @ **Chandigarh University**  
+- 🤖 Passionate about **Machine Learning**, **Deep Learning**, **Generative AI**, and **Agentic AI**  
+- 🧠 Solving real-world problems with scalable **AI solutions**  
+- 🛠️ Building apps with **FAISS**, **LangChain**, **Streamlit**, and **NVIDIA NeMo**  
+- 📝 Published **2 research papers** @ **SocProS 2025 (IIT Roorkee)**  
+- 🌱 Lifelong learner and innovator in AI & research  
 
    </td>
     
@@ -97,13 +97,13 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vikasjangidmk&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikasjangidmk&layout=compact&theme=tokyonight" width="48%"/>
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikasjangidmk&theme=tokyonight" width="95%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vikasjangidmk&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikasjangidmk&layout=compact&theme=tokyonight" width="48%" />
+  <br /><br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikasjangidmk&theme=tokyonight" width="95%" />
 </p>
 
-<!-- Views -->
+<!-- Profile Views -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vikasjangidmk&label=Profile%20views&color=8a2be2&style=flat-square" alt="vikasjangidmk" />
 </p>
@@ -111,4 +111,7 @@
 <!-- Repo, Commits, Followers Big Badges -->
 <p align="center">
   <img src="https://img.shields.io/github/repo-size/vikasjangidmk/vikasjangidmk?style=for-the-badge&color=8A2BE2&logo=github" alt="Repo Size" />
-  <img src="https://img.shields.io/github/commit-activity/y/vikasjangidmk/vikasjangidmk?style=for-the-badge&color=8A2BE
+  <img src="https://img.shields.io/github/commit-activity/y/vikasjangidmk/vikasjangidmk?style=for-the-badge&color=8A2BE2&logo=github" alt="Commit Activity" />
+  <img src="https://img.shields.io/github/followers/vikasjangidmk?style=for-the-badge&color=8A2BE2&logo=github" alt="Followers" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vikasjangidmk&theme=tokyonight" alt="Trophy" />
+</p>
