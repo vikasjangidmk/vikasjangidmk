@@ -1,63 +1,92 @@
+<!-- Banner -->
+<p align="center">
+  <img src="https://github.com/vikasjangidmk/vikasjangidmk/blob/main/banner.png" alt="Vikas Jangid Banner"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Vikas Jangid</h1>
-<h3 align="center">A passionate Data Scientist and Generative AI enthusiast from India</h3>
+<h3 align="center">🚀 Aspiring Data Scientist | AI Researcher | M.Sc. Data Science @ Chandigarh University</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vikasjangidmk&label=Profile%20views&color=0e75b6&style=flat" alt="vikasjangidmk" />
-</p>
+<!-- Coding GIF -->
+<img align="right" alt="coding" width="300" src="https://github.com/vikasjangidmk/vikasjangidmk/assets/130329907/e5526690-2466-48fa-a42a-1871e4feda87" />
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikasjangidmk&theme=darkhub&no-frame=true&title=MultiLanguage,Commits,Repositories,Followers" alt="vikasjangidmk" /></a>
-</p>
+<!-- Grid Layout Start -->
+<table>
+  <tr>
+    <td>
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+### 🔬 About Me
 
-- 🔭 I’m currently working on: **Document QA with RAG + NVIDIA NeMo**
+- 🎓 Pursuing **M.Sc. in Data Science** @ **Chandigarh University**
+- 🤖 Passionate about **Machine Learning**, **Deep Learning**, **Generative AI**, and **Agentic AI**
+- 🧠 Solving real-world problems with scalable **AI solutions**
+- 🛠️ Building apps with **FAISS**, **LangChain**, **Streamlit**, and **NVIDIA NeMo**
+- 📝 Published **2 research papers** @ **SocProS 2025 (IIT Roorkee)**
+- 🌱 Lifelong learner and innovator in AI & research
 
-- 🌱 Currently learning: **Groq API + Llama 3 + ChromaDB**
+   </td>
+    
+   <td>
 
-- 🧠 Exploring: **Generative AI, LangChain, HuggingFace, and Open Source Projects**
+### 🎓 Education
 
-- 📫 Reach me at: **vikasjangidmk@gmail.com**
+- 📍 **M.Sc. Data Science**  
+  Chandigarh University (2023–2025)
 
----
-
-### 🌐 Connect with me:
-<p align="left">
-  <a href="https://www.linkedin.com/in/vikas-jangid-ab0b0b1b9/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" />
-  </a>
-</p>
+- 📍 **B.Sc. (Maths, Stats, CS)**  
+  L.B.S College, Jaipur (2018–2022)
 
 ---
 
-### 🛠️ Languages & Tools
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" alt="streamlit" width="40" height="40"/>
-  <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="huggingface" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/faiss.svg" alt="faiss" width="40" height="40"/>
+### 🏆 Publications
+
+📘 **SocProS 2025 – IIT Roorkee**  
+🔹 *Reducing Operational Costs*  
+  <i>Cost-Sensitive XGBoost-Based Failure Prediction</i>
+
+📗 **SocProS 2025 – IIT Roorkee**  
+🔹 *AI-Driven Pneumonia Diagnosis*  
+  <i>Custom CNNs for Medical Imaging</i>
+
+<p>
+  <img src="https://img.shields.io/badge/Published%20Paper-blue?style=flat&logo=readthedocs&logoColor=white" />
+  <img src="https://img.shields.io/badge/SocProS--2025--Accepted-darkgreen?style=flat-square&logo=semanticweb" />
+  <img src="https://img.shields.io/badge/IIT--Roorkee--Conf.-8a2be2?style=flat-square&logo=academia" />
+</p>
+
+   </td>
+  </tr>
+</table>
+
+---
+
+<!-- Contact -->
+<p align="center">
+  <b>📫 Connect with Me</b><br><br>
+  <a href="mailto:vikasjangidmk@gmail.com">📧 Email</a> •
+  <a href="https://linkedin.com/in/vikas-jangid-ab0b0b1b9">🔗 LinkedIn</a> •
+  <a href="https://github.com/vikasjangidmk">🐱 GitHub</a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+<!-- GitHub Stats -->
+<h3 align="center">📊 GitHub Stats</h3>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vikasjangidmk&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vikasjangidmk&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikasjangidmk&layout=compact&theme=tokyonight" width="48%"/>
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikasjangidmk&theme=tokyonight" width="95%"/>
 </p>
+
+<!-- GitHub Profile Stats: Followers, Repos, Commits -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikasjangidmk&theme=dark" alt="streak" />
+  <img src="https://img.shields.io/github/followers/vikasjangidmk?label=Followers&style=flat-square&color=blueviolet" />
+  <img src="https://img.shields.io/github/repo-count/vikasjangidmk?label=Public%20Repos&style=flat-square&color=blue" />
+  <img src="https://img.shields.io/github/commit-activity/m/vikasjangidmk/vikasjangidmk?label=Commits&style=flat-square&color=green" />
 </p>
+
+<!-- Views -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikasjangidmk&layout=compact&theme=radical" alt="top-langs" />
+  <img src="https://komarev.com/ghpvc/?username=vikasjangidmk&label=Profile%20views&color=8a2be2&style=flat-square" alt="vikasjangidmk" />
 </p>
