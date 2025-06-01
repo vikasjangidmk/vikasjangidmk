@@ -82,20 +82,3 @@
   <a href="https://linkedin.com/in/vikas-jangid-ab0b0b1b9">🔗 LinkedIn</a> •
   <a href="https://github.com/vikasjangidmk">🐱 GitHub</a>
 </p>
-
----
-
-<!-- GitHub Stats -->
-<h3 align="center">📊 GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vikasjangidmk&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikasjangidmk&layout=compact&theme=tokyonight" width="48%"/>
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikasjangidmk&theme=tokyonight" width="95%"/>
-</p>
-
-<!-- Views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vikasjangidmk&label=Profile%20views&color=8a2be2&style=flat-square" alt="vikasjangidmk" />
-</p>
