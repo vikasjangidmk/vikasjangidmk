@@ -3,21 +3,32 @@
   <img src="https://github.com/vikasjangidmk/vikasjangidmk/blob/main/banner.png" alt="Vikas Jangid Banner"/>
 </p>
 
+<!-- Animated Typing Effect -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=8A2BE2&background=F5F5F5&center=true&vCenter=true&width=600&lines=Aspiring+Data+Scientist;AI+Researcher;M.Sc.+Data+Science+@+Chandigarh+University" alt="Typing SVG" />
+</p>
+
+<!-- Snake Contributions Graph -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/HEAD/snk.svg" alt="snake contributions graph" />
+</p>
+
+<!-- Aesthetic Section -->
+<div align="center" style="background-color:#f5f5f5; border-radius:15px; padding:20px; margin:20px 0; max-width: 700px;">
+
+<h2 style="color:#8a2be2;">🌟 Projects & Highlights</h2>
+
+<ul style="text-align:left; font-size:16px;">
+  <li>🚀 Developed AI-based document QA system using NVIDIA NeMo and FAISS.</li>
+  <li>🧪 Published 2 research papers at SocProS 2025 conference.</li>
+  <li>🤖 Built apps leveraging LangChain, Streamlit, and generative AI models.</li>
+  <li>🎯 Actively contributing to open-source AI projects on GitHub.</li>
+</ul>
+
+</div>
+
 <h1 align="center">Hi 👋, I'm Vikas Jangid</h1>
 <h3 align="center">🚀 Aspiring Data Scientist | AI Researcher | M.Sc. Data Science @ Chandigarh University</h3>
-
-<!-- GitHub Badges + Trophy on Top -->
-<h3 align="center">🏅 GitHub Highlights</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/vikasjangidmk?label=Followers&style=for-the-badge&color=blueviolet" />
-  <img src="https://img.shields.io/badge/Public%20Repos-30-blue?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/github/contributions/2024/vikasjangidmk?label=2024%20Commits&style=for-the-badge&color=green" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vikasjangidmk&theme=tokyonight&margin-w=15&margin-h=15" />
-</p>
 
 <!-- Coding GIF -->
 <img align="right" alt="coding" width="300" src="https://github.com/vikasjangidmk/vikasjangidmk/assets/130329907/e5526690-2466-48fa-a42a-1871e4feda87" />
@@ -96,3 +107,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vikasjangidmk&label=Profile%20views&color=8a2be2&style=flat-square" alt="vikasjangidmk" />
 </p>
+
+<!-- Repo, Commits, Followers Big Badges -->
+<p align="center">
+  <img src="https://img.shields.io/github/repo-size/vikasjangidmk/vikasjangidmk?style=for-the-badge&color=8A2BE2&logo=github" alt="Repo Size" />
+  <img src="https://img.shields.io/github/commit-activity/y/vikasjangidmk/vikasjangidmk?style=for-the-badge&color=8A2BE
