@@ -86,8 +86,11 @@
 
 ---
 
+---
+
 <!-- Contribution Graph -->
 <h3 align="center">📈 GitHub Contribution Graph</h3>
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=vikasjangidmk&theme=react-dark&hide_border=true&area=true" width="800" height="200" alt="Vikas's GitHub Activity Graph" />
+  <img src="https://ghchart.rshah.org/vikasjangidmk" alt="Vikas's GitHub Contribution Chart" width="800" />
 </p>
+
